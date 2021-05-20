@@ -15,4 +15,11 @@
 - 递归 代码简单效率低
 - 迭代 代码复杂效率高
 
+## P6成员变量与局部变量 p6.java
+## P7 Bean的作用域
+- singleton 单实例
+- prototype 多实例
+- request 一个HTTP请求创建一个Bean 仅适用于WebApplicationContext环境
+- session 同一个HTTP Session共享一个Bean 仅适用于WebApplicationContext环境
+
 
