@@ -22,4 +22,4 @@
 - request 一个HTTP请求创建一个Bean 仅适用于WebApplicationContext环境
 - session 同一个HTTP Session共享一个Bean 仅适用于WebApplicationContext环境
 
-
+## P8 Spring支持的常用数据库事务传播属性和事务隔离级别
