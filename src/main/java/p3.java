@@ -5,6 +5,7 @@
  *  实例初始化 非静态方法赋值，非静态代码块 构造器方法 9 3 2  9 8 7
  */
 public class p3 {
+
     public static void main(String[] args) {
         Son s1=new Son();
         System.out.println();
