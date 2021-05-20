@@ -9,7 +9,7 @@ public class p3 {
     public static void main(String[] args) {
         Son s1=new Son();
         System.out.println();
-        //
+        // 5 1 10 6 9 3 2 9 8 7 
         Son s2=new Son();
     }
 }
